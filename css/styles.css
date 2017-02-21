@@ -1,0 +1,22 @@
+
+
+.container{
+  text-align: center;
+  font-size: 40px;
+  margin-top: 15%;
+}
+
+h1{
+  font-family: cursive;
+  font-size: 150px;
+  margin-bottom: 150px;
+}
+input{
+  width: 600px;
+}
+
+#output{
+  color: red;
+  font-size: 80px;
+
+}
